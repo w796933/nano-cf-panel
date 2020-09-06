@@ -3,3 +3,5 @@ uwsgi
 CloudFlare
 django-cors-headers
 APScheduler
+flask_sqlalchemy
+sqlalchemy
